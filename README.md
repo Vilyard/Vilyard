@@ -182,8 +182,6 @@
   
   
   <br>
-  <p align="center">
-  <img src="https://github.com/Vilyard/Vilyard/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
