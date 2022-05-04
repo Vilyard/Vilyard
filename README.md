@@ -7,7 +7,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Conducting new experiences and developing additional programming insight.
+- 🤔 &nbsp; Creating new experiences and developing additional programming insight.
 - 🎓 &nbsp; Undergoing Master Degree Studies at the Technical University of Cluj-Napoca.
 
 
