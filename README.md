@@ -90,7 +90,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vilyard)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <div  align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vilyard)](https://github.com/anuraghazra/github-readme-stats)" </div>
   
   </td>
 </tr>
