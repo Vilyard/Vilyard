@@ -18,7 +18,7 @@
 
 
 
-### 💻 Stack I Work With
+### 💻 Stuff I Work With
 
 <br>
 
