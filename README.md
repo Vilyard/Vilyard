@@ -142,7 +142,9 @@
 <br>
 <br>
 <p align="centre">
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vilyard&bg_color=131012&color=61dbfb&line=61dbfb&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
 
 
