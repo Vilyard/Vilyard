@@ -92,7 +92,7 @@
 
 <td width="50%" align="center">
   
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilyard&theme=dark"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilyard&theme=dark&hide=php"/>
   
   </td>
 </tr>
